@@ -1,0 +1,11 @@
+
+                    BACKEND DEVELOPMENT
+
+2 major components                                                      A DATABASE
+
+--->                                                    --------->    MONGODB, MYSQL, PostgreSQL, Sqlite
+                                                                                
+    A Language
+
+Java , JS, PHP, golang
+C++
